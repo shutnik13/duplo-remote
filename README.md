@@ -22,7 +22,7 @@ The driver's cab URL assumes that the latest cab version is published as `cab.ht
 - **10 speed steps in each direction**, from 10% to 100%
 - Large **STOP** button that sends a motor stop command and resets the lever to neutral
 - Headlight color cycling and horn control
-- Train-shaped Bluetooth connection control with a connection indicator
+- Bluetooth connection button in the **top-right corner** of the driver’s cab, with a connection indicator
 - **Press and hold for 2 seconds** to connect or disconnect, helping prevent accidental taps
 - Single HTML file; no framework, build process, or backend required
 
@@ -39,13 +39,13 @@ Other iOS versions, browsers, devices, and train models have not been verified a
 
 1. Turn on the LEGO DUPLO 10427 train.
 2. Open the [driver's cab](https://shutnik13.github.io/duplo-remote/cab.html) in **Bluefy** on your iPhone.
-3. **Hold the train icon for 2 seconds** to start Bluetooth pairing/connection.
+3. **Press and hold the Bluetooth icon in the top-right corner for 2 seconds** to start Bluetooth pairing/connection.
 4. Select the train when the browser prompts you.
 5. Move the lever **up** to drive forward or **down** to reverse. The center position is neutral.
 6. Use the **STOP** button to stop the motor and return the on-screen lever to neutral.
 7. Use the headlight and horn controls as desired.
 
-The train icon also indicates the Bluetooth connection state. To disconnect, hold it again for 2 seconds.
+The top-right Bluetooth button indicates connection status. To disconnect, press and hold it again for 2 seconds.
 
 ## Hosting your own copy
 
